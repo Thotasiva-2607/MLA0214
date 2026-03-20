@@ -1,0 +1,5 @@
+Income,CreditScore,JobStability,LoanApproved
+High,Good,Stable,Yes
+High,Excellent,Stable,Yes
+Medium,Good,Stable,Yes
+Low,Poor,Unstable,No
